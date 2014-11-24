@@ -1,0 +1,22 @@
+{
+  "name": "vlunk",
+  "version": "0.0.0",
+  "description": "for logs",
+  "main": "vlog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtudury/vlunk.git"
+  },
+  "author": "David Tudury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtudury/vlunk/issues"
+  },
+  "homepage": "https://github.com/dtudury/vlunk",
+  "dependencies": {
+    "colors": "^1.0.3"
+  }
+}
